@@ -1,0 +1,4 @@
+@openzeppelin/=lib/@openzeppelin/
+@uniswap/v3-periphery/=lib/uniswap/
+@uniswap/v3-core/=lib/uniswap-v3-core/
+forge-std/=lib/forge-std/src/
